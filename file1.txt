@@ -2,5 +2,9 @@ file1
 now i am to modify this file .
 oh,my god!!
 all right.
+<<<<<<< Updated upstream
 this is dev branch
 this is lmwhly dev branch
+=======
+this is first run in 22 computer.
+>>>>>>> Stashed changes
